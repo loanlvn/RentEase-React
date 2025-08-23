@@ -16,9 +16,9 @@
 
 ## 🖼️ Screenshots
 
-| ![Menu](https://github.com/loanlvn/rentease/blob/main/docs/menuS1.png?raw=true) | ![Admin Panel](https://github.com/loanlvn/rentease/blob/main/docs/AdminPanelS2.png?raw=true) | ![Login](https://github.com/loanlvn/rentease/blob/main/docs/LoginS3.png?raw=true) |
+| ![Menu](https://github.com/loanlvn/RentEase-React/blob/main/menuS1.png?raw=true) | ![Admin Panel](https://github.com/loanlvn/RentEase-React/blob/main/AdminPanelS2.png?raw=true) | ![Login](https://github.com/loanlvn/RentEase-React/blob/main/LoginS3.png?raw=true) |
 | --- | --- | --- |
-| ![Register](https://github.com/loanlvn/rentease/blob/main/docs/RegisterS3.png?raw=true) | ![New Flat Step](https://github.com/loanlvn/rentease/blob/main/docs/NewFlatStepInfoS4.png?raw=true) | ![Firestore](https://github.com/loanlvn/rentease/blob/main/docs/fireStoreS5.png?raw=true) |
+| ![Register](https://github.com/loanlvn/RentEase-React/blob/main/RegisterS3.png?raw=true) | ![New Flat Step](https://github.com/loanlvn/RentEase-React/blob/main/NewFlatStepInfoS4.png?raw=true) | ![Firestore](https://github.com/loanlvn/RentEase-React/blob/main/fireStoreS5.png?raw=true) |
 
 ---
 
