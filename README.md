@@ -31,6 +31,13 @@
 
 ---
 
+## 🚀 Getting Started
+Clone the repo and install dependencies:
+```bash
+git clone https://github.com/loanvn/rentease.git
+cd rentease
+pnpm install
+```
 ## 🔧 Architecture Overview
 
 ```mermaid
